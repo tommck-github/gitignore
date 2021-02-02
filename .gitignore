@@ -1,5 +1,5 @@
 # ignore all single files below
-another-new-file.txt
+new-file.txt
 
 # ignore all files within the folders below
 bin/

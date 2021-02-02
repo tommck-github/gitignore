@@ -1,5 +1,0 @@
-Some contents in the new file to be ignored
-
-one more line
-
-third line added

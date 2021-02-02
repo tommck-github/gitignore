@@ -1,3 +1,9 @@
+# ignore all single files below
 new-file.txt
 
+# ignore all files within the folders below
 bin/
+
+# wild cards within ignore statement
+# ignore all .tmp files
+*.tmp
